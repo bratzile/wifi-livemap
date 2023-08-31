@@ -1,0 +1,650 @@
+[
+    {
+        "site_id": "a6666ca1-8701-4088-8a77-0ec7ff1119d6",
+        "name": "Kennel & Schmenger"
+    },
+    {
+        "site_id": "c81e29c4-5278-4c90-9862-9cb715547b75",
+        "name": "L'Occitane"
+    },
+    {
+        "site_id": "e0274655-876f-4fb7-8a9e-0b69f94288fb",
+        "name": "Lacoste"
+    },
+    {
+        "site_id": "bcef4838-0562-4fcb-b68b-3d3bd27a819c",
+        "name": "Marc O'Polo"
+    },
+    {
+        "site_id": "c6b296c4-0419-4c7f-9b52-97d08f87f694",
+        "name": "Seidensticker"
+    },
+    {
+        "site_id": "bea9342e-1669-4ec9-bc8c-d623bce00280",
+        "name": "Schiesser"
+    },
+    {
+        "site_id": "321727d2-f806-4ad4-a783-fb3c75b6e578",
+        "name": "Crocs"
+    },
+    {
+        "site_id": "d0409368-96ce-4655-b1b0-17f8d17589ea",
+        "name": "Sigikid"
+    },
+    {
+        "site_id": "eb5bae9c-f9e6-47dc-a12c-872af0e2cc84",
+        "name": "Luisa Cerano - ex Kids Around"
+    },
+    {
+        "site_id": "ac48e115-621b-493f-9401-b17d72c95254",
+        "name": "Liebeskind ex 7 For All Mankind"
+    },
+    {
+        "site_id": "ae603446-08e6-4d41-a82a-3f14a26f78ff",
+        "name": "Joop!"
+    },
+    {
+        "site_id": "d2ecb341-9e6e-4c35-b3f3-ba05effd4ff4",
+        "name": "ISP"
+    },
+    {
+        "site_id": "d74ef797-c570-4075-b6b8-1fd7c7e38e47",
+        "name": "Tiefgarage"
+    },
+    {
+        "site_id": "d2ffc6d7-0e7f-4b7f-8e2a-b84db8371243",
+        "name": "Moncler"
+    },
+    {
+        "site_id": "7407b35d-f54c-4672-b148-d6aa2187b8c5",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "0a3ad885-fb58-45b8-84ca-1b02b955530e",
+        "name": "no BLE"
+    },
+    {
+        "site_id": "f8096cdb-cfb4-47fc-b5b6-991fe8da4c3f",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "8eb2f2fd-f065-44b1-bdb3-162627fb2938",
+        "name": "Under Armour"
+    },
+    {
+        "site_id": "166ce0af-e19e-4369-8ba9-51a788902746",
+        "name": "BLE"
+    },
+    {
+        "site_id": "32620520-814e-4213-8250-f435ac973179",
+        "name": "Versace"
+    },
+    {
+        "site_id": "a9f5cac4-844e-4877-afa2-16e84a721caf",
+        "name": "Valentino"
+    },
+    {
+        "site_id": "fb8e451d-8c1b-446c-88b7-ab2c5eb2fde6",
+        "name": "de-ocm-pl10.2"
+    },
+    {
+        "site_id": "017e034c-af42-482d-8a8e-87f9cf6cb75e",
+        "name": "Philipp Plein"
+    },
+    {
+        "site_id": "9b58c441-f7d0-46ce-92a4-45d3d9d5364d",
+        "name": "Kjus"
+    },
+    {
+        "site_id": "725ce410-6e73-4cbd-987f-3305e8875e37",
+        "name": "Windsor"
+    },
+    {
+        "site_id": "051580ba-740a-42c6-bf40-3f790e35eb62",
+        "name": "Bogner"
+    },
+    {
+        "site_id": "c552401c-49a6-4217-aa28-88a4673a5795",
+        "name": "Hackett"
+    },
+    {
+        "site_id": "285d66eb-00ee-4654-995f-3806b4fd82f9",
+        "name": "Marché"
+    },
+    {
+        "site_id": "0d9ae02f-e9ad-4593-a5c7-8a5300566aeb",
+        "name": "Amorino"
+    },
+    {
+        "site_id": "899a50d1-3f2a-4b1c-b61a-4cd29bab74f6",
+        "name": "Starbucks"
+    },
+    {
+        "site_id": "06b3d498-c70a-4b70-a2fb-fce6c4a7c9ff",
+        "name": "Patrizia Pepe"
+    },
+    {
+        "site_id": "efd2e3b9-119c-49ac-ab17-62f79ec7a151",
+        "name": "Vilebrequin"
+    },
+    {
+        "site_id": "40d3cca2-0bed-47b0-8a56-cc06673df353",
+        "name": "Nike"
+    },
+    {
+        "site_id": "b44b8931-abc4-4e5f-96d8-4f33be31eb43",
+        "name": "Gant"
+    },
+    {
+        "site_id": "03236f04-2dbe-4d74-b7b3-6add21b6348a",
+        "name": "Karl Lagerfeld"
+    },
+    {
+        "site_id": "9ae55403-1a3d-47ef-b901-cbf0e7db0ad9",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "be076446-b277-4c92-ab22-27fcb853a05a",
+        "name": "Tiefgarage"
+    },
+    {
+        "site_id": "7d523958-7801-4f82-a9c6-084e96307f42",
+        "name": "Falke"
+    },
+    {
+        "site_id": "0740083d-2071-44e9-ad29-e2c8d55f1f7c",
+        "name": "Scotch & Soda"
+    },
+    {
+        "site_id": "3b71f15f-ef00-43c8-8ea6-f7eb94821847",
+        "name": "Converse"
+    },
+    {
+        "site_id": "9cd53e84-eca3-4ce9-a613-44d74138cee5",
+        "name": "Superdry"
+    },
+    {
+        "site_id": "5f7d9069-37c6-4375-a815-7b669a3cec3b",
+        "name": "McDonald's"
+    },
+    {
+        "site_id": "f3f4fe4b-db91-47d7-a7f2-094dbf529bd2",
+        "name": "Vero Moda, Jack & Jones"
+    },
+    {
+        "site_id": "17267a97-b825-4882-ad90-a227b39a4500",
+        "name": "Napapijri"
+    },
+    {
+        "site_id": "16e6bf74-66c5-47bc-99cc-8a5fafccebb1",
+        "name": "Fendi"
+    },
+    {
+        "site_id": "ee6d2fea-a5d2-4136-abd4-506b4a4ba7ee",
+        "name": "Timberland"
+    },
+    {
+        "site_id": "2c26e6e7-a517-4b29-b141-c31db390e656",
+        "name": "The North Face"
+    },
+    {
+        "site_id": "b0cc9fa8-90af-441e-982e-9c5b553ab56b",
+        "name": "Tourist Information"
+    },
+    {
+        "site_id": "aed8329b-33c0-4c7e-9b17-23ec220b2932",
+        "name": "Tod's"
+    },
+    {
+        "site_id": "3a931f26-e84c-4a71-a720-0234cd755f12",
+        "name": "Zegna"
+    },
+    {
+        "site_id": "6ec4ab84-73b0-4637-b7af-25933f3e07fe",
+        "name": "Jimmy Choo"
+    },
+    {
+        "site_id": "c15da6bc-829d-451c-8417-b385a064e409",
+        "name": "Gucci"
+    },
+    {
+        "site_id": "133aaabd-bb63-49e3-b614-f0da7bd3794f",
+        "name": "Loro Piana"
+    },
+    {
+        "site_id": "6142e824-b2e7-4a78-9ba1-025042af339c",
+        "name": "Salvatore Ferragamo"
+    },
+    {
+        "site_id": "5a0cf36b-749f-4ae4-a810-847870c62f37",
+        "name": "Prada"
+    },
+    {
+        "site_id": "35a28698-aeb1-4e0a-b5a1-17603ef56bfe",
+        "name": "Polo Ralph Lauren"
+    },
+    {
+        "site_id": "9b79cf63-3988-4442-b0a9-ebb35f3ecb9c",
+        "name": "Bottega Veneta"
+    },
+    {
+        "site_id": "6b3dcbd3-0f46-47c4-a1c4-50d553f3c3c2",
+        "name": "Armani"
+    },
+    {
+        "site_id": "2f8b315f-b0d5-43d1-89e8-5cb27fa24b46",
+        "name": "Hour Passion"
+    },
+    {
+        "site_id": "5119f87f-592e-4427-96b9-fb62a2a23a88",
+        "name": "Coach"
+    },
+    {
+        "site_id": "db41f160-ec25-4bab-805d-6ba7c28cfd18",
+        "name": "Keim"
+    },
+    {
+        "site_id": "1c76ab67-cc01-46ae-b581-70f475f7badd",
+        "name": "Strellson"
+    },
+    {
+        "site_id": "9bc86684-9763-4b8e-b92f-21cf376230d4",
+        "name": "Porsche Design"
+    },
+    {
+        "site_id": "4114701f-1820-49dc-8148-9b2873502137",
+        "name": "Furla"
+    },
+    {
+        "site_id": "cdd762da-f315-479c-b14a-84dcbed2e426",
+        "name": "OORS"
+    },
+    {
+        "site_id": "43456e3a-6ed6-4112-9374-b4b1ecdc0d0f",
+        "name": "Bally"
+    },
+    {
+        "site_id": "4ccb81d6-0704-4e2d-bf5f-a53a288cbf7d",
+        "name": "Michael Kors"
+    },
+    {
+        "site_id": "cd0e74b1-49aa-44ce-abb9-ba038015b86b",
+        "name": "Tory Burch"
+    },
+    {
+        "site_id": "b85b790f-ce29-4b8b-a9eb-d003cddb5b2d",
+        "name": "Ted Baker"
+    },
+    {
+        "site_id": "dd2ec0e4-d1ed-4386-8f2d-0797d212c244",
+        "name": "Alm Resi"
+    },
+    {
+        "site_id": "52ae6afe-d530-4873-ad0b-9d00ee0493cb",
+        "name": "Etro"
+    },
+    {
+        "site_id": "708373d6-6d17-4e7a-b567-8e7a2bf8e3f3",
+        "name": "Oakley - ex Sunglass Hut"
+    },
+    {
+        "site_id": "ed78c145-e83c-4cd6-98fd-8ae0346ad112",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "6dbc01ca-25c5-4c2d-9b02-7f93c5639d04",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "9406fe06-40b2-4f77-9fb7-c55f07edd3f1",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "a05eb742-f47e-4876-9aa6-26f5384af059",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "9c003b88-24ef-4b90-a26c-7ca93f911a97",
+        "name": "Aigner"
+    },
+    {
+        "site_id": "6252c1b5-88ce-4032-a91e-418327e61a75",
+        "name": "Alberta Ferretti-Moschino"
+    },
+    {
+        "site_id": "a4f3c24c-662f-4034-b6a1-56579a2f3ea2",
+        "name": "Desigual"
+    },
+    {
+        "site_id": "a46d044b-54ae-4626-a8da-f6ed0658091d",
+        "name": "Tiefgarage"
+    },
+    {
+        "site_id": "48ba29f4-df96-4853-bac0-e06f3b36bb3e",
+        "name": "Tiefgarage"
+    },
+    {
+        "site_id": "bd676a2d-1953-4347-bc39-54b8b92e1172",
+        "name": "Guess"
+    },
+    {
+        "site_id": "a96ba312-7d24-4db2-bb73-820849ac7550",
+        "name": "Levi's"
+    },
+    {
+        "site_id": "12c1c785-1e81-4a75-adc5-e2d508d0f290",
+        "name": "Fossil"
+    },
+    {
+        "site_id": "cc0af729-051f-4a36-8c99-5e965b7e2c7e",
+        "name": "Dolce & Gabbana"
+    },
+    {
+        "site_id": "b51655a1-12d3-4b87-af88-b5eb82b14d60",
+        "name": "Swarowski"
+    },
+    {
+        "site_id": "fbe41111-5870-4958-ac81-b6a65329bb5e",
+        "name": "s. Oliver"
+    },
+    {
+        "site_id": "9044b132-d496-4aa2-878c-55139119ab25",
+        "name": "Douglas"
+    },
+    {
+        "site_id": "2d429de9-479b-4d64-9019-8a1e0da03ed4",
+        "name": "Estella"
+    },
+    {
+        "site_id": "e0649192-483e-468c-b498-adae53be8817",
+        "name": "Kneipp"
+    },
+    {
+        "site_id": "899d568b-7b4f-48fc-9f6d-27205bfe7128",
+        "name": "Lambert"
+    },
+    {
+        "site_id": "2a382779-3784-458f-9763-ccd4f7c5b15f",
+        "name": "Le Creuset"
+    },
+    {
+        "site_id": "dd2d277e-1ac4-4f0d-b3ff-5123f1b70e95",
+        "name": "Pandora"
+    },
+    {
+        "site_id": "7a4c80cc-dbcd-4e99-baef-a14b6932c7ec",
+        "name": "Möve"
+    },
+    {
+        "site_id": "ce54d6f6-f2aa-470e-8eb4-e62ffe4ce3b6",
+        "name": "Ravensburger"
+    },
+    {
+        "site_id": "e948ea2e-079c-40d6-8b04-4fbb56c7534f",
+        "name": "Storck"
+    },
+    {
+        "site_id": "d10c0de7-bab4-4ede-bc03-d356cd6671aa",
+        "name": "Tefal"
+    },
+    {
+        "site_id": "51e9099c-be07-4a37-a833-32944c517376",
+        "name": "Villeroy&Boch"
+    },
+    {
+        "site_id": "f7c0dd3a-f994-4c0c-9f65-b8c3deda889e",
+        "name": "Watch Station"
+    },
+    {
+        "site_id": "7d4eaa33-9561-4a0f-a80b-ac3a372b3e6f",
+        "name": "WMF"
+    },
+    {
+        "site_id": "e472a453-d590-41ba-8b69-d1d9bd663b2e",
+        "name": "Zwilling"
+    },
+    {
+        "site_id": "7bf4b471-db39-4e20-8b64-db6e93e89b4a",
+        "name": "de-ocm-outdoor"
+    },
+    {
+        "site_id": "6c1e9a25-fe5c-437a-a7b1-3421c0f4c837",
+        "name": "ex Liebeskind"
+    },
+    {
+        "site_id": "9836044b-d059-4c88-a7ad-e589d09c285d",
+        "name": "Sunglasses Hut"
+    },
+    {
+        "site_id": "4262306a-5786-4aa7-93e5-6a54f59b1058",
+        "name": "de-ocm-osc"
+    },
+    {
+        "site_id": "4a450727-aee6-40cf-86fc-73433e49241d",
+        "name": "MCM"
+    },
+    {
+        "site_id": "073b8d68-be0f-4743-b06a-c13c192ee803",
+        "name": "UGG"
+    },
+    {
+        "site_id": "414bf6ff-96e4-4f97-888c-80e825443135",
+        "name": "Leerstand - ex Mammut"
+    },
+    {
+        "site_id": "ccbed0b4-11a4-441c-bff4-09d510b22f0b",
+        "name": "Tchibo - Ex Möve"
+    },
+    {
+        "site_id": "9935a3ae-49f3-41a6-988e-a0cbf87afd8c",
+        "name": "neu Puma - Ex Tchibo"
+    },
+    {
+        "site_id": "49e4b3a7-4692-468a-b4af-9f4247cc0325",
+        "name": "Olymp"
+    },
+    {
+        "site_id": "82763957-7c6c-4646-b631-0d1e39c4ae4d",
+        "name": "Leerstand - ex Tom Tailor"
+    },
+    {
+        "site_id": "99929434-3286-4ca3-be99-2ddf509d02ff",
+        "name": "ex Calvin Klein"
+    },
+    {
+        "site_id": "fa122fd3-d27c-40e7-8ae2-22de12dbfa83",
+        "name": "Tommy Hilfiger PVH"
+    },
+    {
+        "site_id": "2a596b1c-f4e5-45e5-8d65-c69b4aae50e7",
+        "name": "Calvin Klein PVH"
+    },
+    {
+        "site_id": "22ae652d-ff31-4d78-88d1-6e949d678a35",
+        "name": "Diesel"
+    },
+    {
+        "site_id": "0e151e99-5631-403f-8376-8cc8a1487110",
+        "name": "MaxMara"
+    },
+    {
+        "site_id": "6896a35f-2e8b-4961-a2f7-35a3a85f8e8e",
+        "name": "Tumi"
+    },
+    {
+        "site_id": "37c4500d-403c-4bcc-bd10-d2009a6d7c6c",
+        "name": "Esprit"
+    },
+    {
+        "site_id": "b83afb18-2a02-45aa-b077-756f67ee5ab6",
+        "name": "Burberry"
+    },
+    {
+        "site_id": "4a32d4e8-ccee-40f0-85ce-faa0a169d1e6",
+        "name": "Breitling"
+    },
+    {
+        "site_id": "7602bd30-0213-4bd6-b1e5-0f2c3576c3f1",
+        "name": "Fabiana Filippi"
+    },
+    {
+        "site_id": "09552a2a-f533-4db6-bad6-cc419464b378",
+        "name": "Adidas-Reebok - Ex Douglas"
+    },
+    {
+        "site_id": "e260146c-2d79-46b8-a1dc-ee1b86197e72",
+        "name": "L'Osteria"
+    },
+    {
+        "site_id": "c8278e64-ecd0-42ec-a850-720b7b487bc1",
+        "name": "TCCS"
+    },
+    {
+        "site_id": "02e4c3c3-63d9-4888-8157-93f0b79ea964",
+        "name": "G-Star - ex Escada"
+    },
+    {
+        "site_id": "e3891daa-63e7-485b-9851-054e39609602",
+        "name": "Sandro - ex Lindt"
+    },
+    {
+        "site_id": "177fdcbb-3327-417b-a91c-502874cbd01d",
+        "name": "Pop-Up - Longchamp"
+    },
+    {
+        "site_id": "875e200f-396f-4433-b281-c448c1b72b16",
+        "name": "Skechers - ex Samsonite"
+    },
+    {
+        "site_id": "6109b0b1-4421-464e-918b-dc3588893135",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "a49290d1-7615-41a0-8bb5-a507820f08f9",
+        "name": "Woolrich"
+    },
+    {
+        "site_id": "997d7fd7-a4bc-4d5d-8177-fb706954097b",
+        "name": "ONLY"
+    },
+    {
+        "site_id": "961ff069-167c-4752-b7cc-00010c27297a",
+        "name": "Hunkemöller"
+    },
+    {
+        "site_id": "78ef00fd-21e8-4abd-9df8-0a597018bf9e",
+        "name": "AA"
+    },
+    {
+        "site_id": "e241eb13-7d5b-4450-b8fb-f21765e46bde",
+        "name": "Kate Spade"
+    },
+    {
+        "site_id": "2589b2a7-6987-413c-aeeb-d81e97c3e467",
+        "name": "Haribo"
+    },
+    {
+        "site_id": "a49785c8-9bf7-4461-9f70-a6aabe2db686",
+        "name": "Neu Lindt"
+    },
+    {
+        "site_id": "1f547ae6-2e37-4a1d-a3ac-5886a1b6cc42",
+        "name": "Bahlsen"
+    },
+    {
+        "site_id": "bf22ee72-facf-476c-bf07-2645a91fbb13",
+        "name": "Balenciaga"
+    },
+    {
+        "site_id": "200a6e18-e921-456d-bf5c-73d810b943f3",
+        "name": "Babor"
+    },
+    {
+        "site_id": "36635756-3207-4c33-8728-c4e355735a5f",
+        "name": "Mey"
+    },
+    {
+        "site_id": "85cebeb5-c2eb-46af-bd0a-2fb2b91f8f36",
+        "name": "Ecco"
+    },
+    {
+        "site_id": "1fb6b903-917b-45f5-9dee-1acf6363fbc3",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "a2dbff1c-b362-4b72-8356-71aa130c4141",
+        "name": "Mammut - ex Puma"
+    },
+    {
+        "site_id": "de1ae6c2-7299-42cf-a139-3ca7109d416e",
+        "name": "Geox - ex ECCO"
+    },
+    {
+        "site_id": "59c793d1-5499-44e0-ab44-1191c7ef0f23",
+        "name": "American Vintage"
+    },
+    {
+        "site_id": "8032ad1d-062c-4d6f-b8f0-e3fb0de22c65",
+        "name": "Samsonite"
+    },
+    {
+        "site_id": "906a37a4-67f0-4c78-9dec-986aa5320356",
+        "name": "#WERT!"
+    },
+    {
+        "site_id": "e10349f9-8225-47ec-a736-808224019331",
+        "name": "Champagner Bar"
+    },
+    {
+        "site_id": "5a4f3c23-5b09-4390-8549-72b9670f9d34",
+        "name": "Lululemon"
+    },
+    {
+        "site_id": "7e269646-548e-4b21-9a38-fed3799ad538",
+        "name": "ex Kate Spade"
+    },
+    {
+        "site_id": "50342235-2d96-4f80-93e4-fd1580181539",
+        "name": "ex Kipling"
+    },
+    {
+        "site_id": "d303e950-38d3-45ef-8e43-be11265d94c6",
+        "name": "aufgelöst Rossignol - Ex Zwilling"
+    },
+    {
+        "site_id": "00bf75dd-a2d1-4c2a-a513-cda81e07a08a",
+        "name": "ex Petit Bateau"
+    },
+    {
+        "site_id": "d3acc05a-4214-4194-8f9a-44f3651f0276",
+        "name": "ex Tefal"
+    },
+    {
+        "site_id": "22476942-1e31-49b2-8136-f2c728bca12c",
+        "name": "Leerstand - ex ONLY"
+    },
+    {
+        "site_id": "13f1ee0d-43b0-4346-9913-62c527b3f8f4",
+        "name": "7FAM - ex JetSet - ex Peuterey"
+    },
+    {
+        "site_id": "c936bd01-aca8-4342-84c2-dae8ca52d598",
+        "name": "Paul&Shark -ex Closed - ex Sandro"
+    },
+    {
+        "site_id": "e64ef87f-754b-4bd3-9381-a92ccd24e7d3",
+        "name": "Coccinelle - ex Sergio Rossi"
+    },
+    {
+        "site_id": "252e5ec6-7f83-433e-bbd8-949d87187e00",
+        "name": "Champa - ex Olio e Pane"
+    },
+    {
+        "site_id": "b19ff989-9090-4b6a-8df0-af3499b47f61",
+        "name": "Tom Tailor"
+    },
+    {
+        "site_id": "506e6581-ab70-4e84-9526-3d71e146d805",
+        "name": "Volvo - ex Aigner"
+    }
+]
