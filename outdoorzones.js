@@ -1,7 +1,5 @@
 // Kreiraj HTML strukturu tabele
-var tableHtml = '<div id="areaTablePopup" style="position: absolute; bottom: 20px; left: 20px; background-color: white; border: 1px solid #ccc; padding: 10px; z-index: 1000;font-family:Verdana;">' +
-    '<div id="areaTable"></div>' +
-    '</div>';
+var tableHtml = '<div id="areaTablePopup"'
 
 // Dodaj tabelu na mapu kao HTML element
 var tablePopup = L.popup()
@@ -14,7 +12,7 @@ map.on('load', function () {
 // Učitaj podatke i popuni tabelu
 $.getJSON("./json/areazones.json", function(jsonData) {
     var tableContent = "<table>";
-    tableContent += "<tr><th>Zone Area</th><th>Clients</th></tr>";
+    tableContent += "<tr><th>Areas</th><th>Clients</th></tr>";
 
     jsonData.forEach(function(entity) {
         var name = entity.name;
